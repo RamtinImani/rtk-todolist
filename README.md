@@ -43,7 +43,7 @@ Follow these steps to run **rtk-todolist** locally on your machine:
 
 ```bash
 # Clone the repository
-git clone url
+git clone https://github.com/RamtinImani/rtk-todolist.git
 
 # Navigate into the project directory
 cd rtk-todolist
